@@ -1,5 +1,7 @@
 # NLP-sentiment
-Research Question
+Research Question<br/>
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7552959.svg)](https://doi.org/10.5281/zenodo.7552959)
+<br/>
 Can we create and train a neural network model using NLP techniques to analyze the history of customers reviews and scores to forecast and predict customer sentiment is positive or negative?
 
 This study aims to prepare the history of customer reviews and scores and build and train the neural network model to predict and forecast customer sentiment and define positive or negative to understand the customer and improve the business by supporting the marketing process.
